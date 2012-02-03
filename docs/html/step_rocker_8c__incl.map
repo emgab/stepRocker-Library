@@ -1,0 +1,13 @@
+<map id="G" name="G">
+<area shape="rect" id="node9" href="$bits_8h.html" title="Bit definitions." alt="" coords="299,83,352,112"/>
+<area shape="rect" id="node11" href="$step_rocker_8h.html" title="Basic type and macro definitions." alt="" coords="376,83,475,112"/>
+<area shape="rect" id="node13" href="$_sys_tick_8h.html" title="System tick timer." alt="" coords="499,83,579,112"/>
+<area shape="rect" id="node15" href="$_r_s485_8h.html" title="Motor monitoring." alt="" coords="603,83,675,112"/>
+<area shape="rect" id="node17" href="$_commands_8h.html" title="TMCL command definitions." alt="" coords="699,83,797,112"/>
+<area shape="rect" id="node19" href="$_globals_8h.html" title="Global variables." alt="" coords="821,83,899,112"/>
+<area shape="rect" id="node21" href="$_s_p_i_8h.html" title="SPI functions." alt="" coords="923,83,976,112"/>
+<area shape="rect" id="node23" href="$_t_m_c429_8h.html" title="TMC429 library definitions." alt="" coords="1000,83,1080,112"/>
+<area shape="rect" id="node25" href="$_t_m_c262_8h.html" title="TMC262 library." alt="" coords="1104,83,1184,112"/>
+<area shape="rect" id="node27" href="$_i_o_8h.html" title="I/O functions." alt="" coords="1208,83,1253,112"/>
+<area shape="rect" id="node29" href="$_sys_control_8h.html" title="Motor monitoring." alt="" coords="1277,83,1373,112"/>
+</map>

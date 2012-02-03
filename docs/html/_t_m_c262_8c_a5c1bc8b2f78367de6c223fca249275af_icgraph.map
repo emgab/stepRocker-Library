@@ -1,0 +1,33 @@
+<map id="G" name="G">
+<area shape="rect" id="node3" href="$_t_m_c262_8h.html#acefb7d291af4ed6c8acfeb3bd9a30da7" title="Initialise all motor drivers." alt="" coords="476,160,585,189"/>
+<area shape="rect" id="node7" href="$_t_m_c262_8h.html#a95490bfd4e3b32b8615bf6a1c3a23892" title="Read the status register of a TMC26x." alt="" coords="656,48,760,77"/>
+<area shape="rect" id="node12" href="$_t_m_c262_8h.html#a6f3d4490c610aa5a7e51e2b4e421e7f0" title="Set current scale value." alt="" coords="207,550,404,580"/>
+<area shape="rect" id="node95" href="$_t_m_c262_8h.html#a347911bd4b6f8b937079d6ae4a10f1be" title="Set stallGuard filter." alt="" coords="455,1184,607,1213"/>
+<area shape="rect" id="node98" href="$_t_m_c262_8h.html#ae429d38e86fddc0d5e887662d1ebd7cd" title="Set stallGuard threshold value." alt="" coords="216,1078,395,1108"/>
+<area shape="rect" id="node5" href="$step_rocker_8c.html#a568b3afc214ba30be5bf526d6b27b611" title="Main program." alt="" coords="1741,326,1792,356"/>
+<area shape="rect" id="node9" href="$_sys_control_8h.html#ac8de2a73868eb173500866f9fc5772f8" title="Motor monitoring." alt="" coords="1181,149,1288,178"/>
+<area shape="rect" id="node14" href="$_commands_8c.html#a443621a71b0c43372b21be75be279482" title="Command SAP." alt="" coords="1171,981,1299,1010"/>
+<area shape="rect" id="node21" href="$_i_o_8h.html#a5d8fe729cbcd3e0059e1104a90b6bda9" title="Set motor current." alt="" coords="472,514,589,544"/>
+<area shape="rect" id="node16" href="$_commands_8c.html#a9793baaccd0e9d22f3385bd5b341fe97" title="Execute actual TMCL command." alt="" coords="1348,618,1513,648"/>
+<area shape="rect" id="node18" href="$_commands_8h.html#a3ea6d6d2906dc85bef7c2f85c61a8585" title="Fetch and execute TMCL commands." alt="" coords="1564,510,1692,540"/>
+<area shape="rect" id="node23" href="$_t_m_c429_8h.html#ae5dca7d55da58bf92324c60151cac2c7" title="32 bit SPI communication with TMC429" alt="" coords="656,514,760,544"/>
+<area shape="rect" id="node25" href="$_t_m_c429_8h.html#a98704c1dda2b5814b188d45b1ea5d1f6" title="Read TMC429 register." alt="" coords="823,902,929,932"/>
+<area shape="rect" id="node37" href="$_t_m_c429_8h.html#afddf53a96de1ca5fd32475ce49666681" title="Read TMC429 register (24 bit)." alt="" coords="833,510,919,540"/>
+<area shape="rect" id="node43" href="$_t_m_c429_8h.html#a25da9c6827bf185edc2d11448ae8f2b4" title="Read TMC429 register (12 bit)." alt="" coords="824,201,928,230"/>
+<area shape="rect" id="node47" href="$_t_m_c429_8h.html#af136822e9e785bd4d72b23166e2c8d9f" title="Read TMC429 register." alt="" coords="808,257,944,286"/>
+<area shape="rect" id="node50" href="$_t_m_c429_8h.html#aad8aa522d905f010c6e1faf0f64260b0" title="Set the ramping mode of an axis." alt="" coords="812,618,940,648"/>
+<area shape="rect" id="node66" href="$_t_m_c429_8h.html#a7ba0361eafcc244ac91624224e9abd0b" title="Set the end switch mode." alt="" coords="809,457,943,486"/>
+<area shape="rect" id="node69" href="$_t_m_c429_8h.html#aa69628a34cf72dab4fef598294e42927" title="TMC429 write access." alt="" coords="823,956,929,985"/>
+<area shape="rect" id="node73" href="$_t_m_c429_8h.html#a968c12178e42a5dae0a217073bff9bff" title="TMC429 write access." alt="" coords="992,254,1123,284"/>
+<area shape="rect" id="node76" href="$_t_m_c429_8h.html#acff6b54afea84b28219d6b78e6bd3d67" title="Write 24 bit value to a TMC429 register." alt="" coords="1013,566,1101,596"/>
+<area shape="rect" id="node81" href="$_t_m_c429_8h.html#ad0d71555e661057396b3bb6b9370bff7" title="Write 16 bit value to a TMC429 register." alt="" coords="824,721,928,750"/>
+<area shape="rect" id="node89" href="$_t_m_c429_8h.html#ad8b5ea2a38546586bce0e7da03001f72" title="Write zero to a TMC429 register." alt="" coords="827,380,925,409"/>
+<area shape="rect" id="node27" href="$_t_m_c429_8h.html#a75c65505f3160b8c04cd0edc146702cc" title="Set the maximum acceleration." alt="" coords="1020,929,1095,958"/>
+<area shape="rect" id="node29" href="$_t_m_c429_8h.html#a8301ac7f272d51ac0c84d7be55a9f410" title="TMC429 initialization." alt="" coords="1205,501,1264,530"/>
+<area shape="rect" id="node32" href="$_commands_8c.html#aafbc535dbb1c4891267f6e68a226f127" title="Command MVP." alt="" coords="1179,618,1291,648"/>
+<area shape="rect" id="node39" href="$_commands_8c.html#a46076531a74c3babbe282e563ad699d0" title="Command GAP." alt="" coords="993,201,1121,230"/>
+<area shape="rect" id="node52" href="$_t_m_c429_8h.html#a7da650aafc12e65459eec789f1c03e59" title="Stop a motor immediately." alt="" coords="1020,358,1095,388"/>
+<area shape="rect" id="node55" href="$_commands_8c.html#a29fc220c246b6affb516d46453048a43" title="Command MST." alt="" coords="1016,412,1099,441"/>
+<area shape="rect" id="node59" href="$_commands_8c.html#a8c930c2e3ebddb36da3bf76ec21d28b3" title="Command ROL." alt="" coords="1017,774,1097,804"/>
+<area shape="rect" id="node62" href="$_commands_8c.html#a441063121a6474e1ccb53596241591f0" title="Command ROR (see TMCL manual)." alt="" coords="1012,721,1103,750"/>
+</map>

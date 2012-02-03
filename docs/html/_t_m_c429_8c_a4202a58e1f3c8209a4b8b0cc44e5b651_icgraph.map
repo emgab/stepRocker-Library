@@ -1,0 +1,9 @@
+<map id="G" name="G">
+<area shape="rect" id="node3" href="$_t_m_c429_8h.html#a7da650aafc12e65459eec789f1c03e59" title="Stop a motor immediately." alt="" coords="156,5,231,35"/>
+<area shape="rect" id="node9" href="$_t_m_c429_8h.html#a8301ac7f272d51ac0c84d7be55a9f410" title="TMC429 initialization." alt="" coords="337,57,396,87"/>
+<area shape="rect" id="node12" href="$_commands_8c.html#a29fc220c246b6affb516d46453048a43" title="Command MST." alt="" coords="152,109,235,139"/>
+<area shape="rect" id="node5" href="$_sys_control_8h.html#ac8de2a73868eb173500866f9fc5772f8" title="Motor monitoring." alt="" coords="511,5,617,35"/>
+<area shape="rect" id="node7" href="$step_rocker_8c.html#a568b3afc214ba30be5bf526d6b27b611" title="Main program." alt="" coords="677,57,728,87"/>
+<area shape="rect" id="node14" href="$_commands_8c.html#a9793baaccd0e9d22f3385bd5b341fe97" title="Execute actual TMCL command." alt="" coords="284,111,449,140"/>
+<area shape="rect" id="node16" href="$_commands_8h.html#a3ea6d6d2906dc85bef7c2f85c61a8585" title="Fetch and execute TMCL commands." alt="" coords="500,109,628,139"/>
+</map>

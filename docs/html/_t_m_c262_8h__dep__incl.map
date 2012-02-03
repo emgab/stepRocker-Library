@@ -1,0 +1,8 @@
+<map id="G" name="G">
+<area shape="rect" id="node3" href="$_commands_8c.html" title="Mini TMCL interpreter." alt="" coords="5,83,104,112"/>
+<area shape="rect" id="node5" href="$_i_o_8c.html" title="I/O functions." alt="" coords="128,83,173,112"/>
+<area shape="rect" id="node7" href="$step_rocker_8c.html" title="Main file." alt="" coords="197,83,296,112"/>
+<area shape="rect" id="node9" href="$_sys_control_8c.html" title="Motor monitoring." alt="" coords="320,83,416,112"/>
+<area shape="rect" id="node11" href="$_t_m_c262_8c.html" title="TMC262 Stepper motor driver functions." alt="" coords="440,83,520,112"/>
+<area shape="rect" id="node13" href="$_t_m_c429_8c.html" title="TMC429 Stepper controller functions." alt="" coords="544,83,624,112"/>
+</map>

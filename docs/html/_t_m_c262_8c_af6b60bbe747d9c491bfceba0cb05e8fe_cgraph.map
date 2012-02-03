@@ -1,0 +1,5 @@
+<map id="G" name="G">
+<area shape="rect" id="node3" href="$_t_m_c262_8c.html#a07f0cb5daf196f42d93819367f18ce53" title="Write CHOPCONF register data to TMC26x." alt="" coords="191,5,327,35"/>
+<area shape="rect" id="node5" href="$_t_m_c262_8c.html#a68abfd58f683b8e948d6e101f1372497" title="SPI communictation with TMC26x." alt="" coords="376,5,480,35"/>
+<area shape="rect" id="node7" href="$_s_p_i_8c.html#a1a9d469f7aaa533671467316481f81c5" title="SPI communication." alt="" coords="528,5,632,35"/>
+</map>

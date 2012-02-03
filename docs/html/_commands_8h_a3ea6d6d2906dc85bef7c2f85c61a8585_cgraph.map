@@ -1,0 +1,51 @@
+<map id="G" name="G">
+<area shape="rect" id="node3" href="$_r_s485_8c.html#ac688406b7cc1fd42a41d1dd1ef77205e" title="Check and reset RS485 timeout flag." alt="" coords="199,1280,337,1309"/>
+<area shape="rect" id="node5" href="$_commands_8c.html#a9793baaccd0e9d22f3385bd5b341fe97" title="Execute actual TMCL command." alt="" coords="185,1333,351,1363"/>
+<area shape="rect" id="node117" href="$_r_s485_8c.html#a1473ff1e025cef51cd02e19c9df94a42" title="Read from the RS485 interface." alt="" coords="223,1387,313,1416"/>
+<area shape="rect" id="node119" href="$_r_s485_8c.html#a78586cd81e4489c22915b3177e157697" title="Write to the RS485 interface." alt="" coords="223,1440,313,1469"/>
+<area shape="rect" id="node7" href="$_commands_8c.html#af2c51527fb37e7966e97b1a009e8f905" title="Enter bootloader mode." alt="" coords="440,765,488,795"/>
+<area shape="rect" id="node11" href="$_commands_8c.html#a46076531a74c3babbe282e563ad699d0" title="Command GAP." alt="" coords="617,699,745,728"/>
+<area shape="rect" id="node67" href="$_commands_8c.html#ad10b44050f64d50efc8b67ebd2008d96" title="Command 136 (get version)." alt="" coords="421,1227,507,1256"/>
+<area shape="rect" id="node69" href="$_commands_8c.html#a29fc220c246b6affb516d46453048a43" title="Command MST." alt="" coords="423,1280,505,1309"/>
+<area shape="rect" id="node77" href="$_commands_8c.html#aafbc535dbb1c4891267f6e68a226f127" title="Command MVP." alt="" coords="408,1440,520,1469"/>
+<area shape="rect" id="node93" href="$_commands_8c.html#a8c930c2e3ebddb36da3bf76ec21d28b3" title="Command ROL." alt="" coords="424,1333,504,1363"/>
+<area shape="rect" id="node97" href="$_commands_8c.html#a441063121a6474e1ccb53596241591f0" title="Command ROR (see TMCL manual)." alt="" coords="419,1387,509,1416"/>
+<area shape="rect" id="node101" href="$_commands_8c.html#a443621a71b0c43372b21be75be279482" title="Command SAP." alt="" coords="400,1597,528,1627"/>
+<area shape="rect" id="node115" href="$_commands_8c.html#a09ef6884c083fa8acb4c002d54202baa" title="TMCL software reset command." alt="" coords="411,1651,517,1680"/>
+<area shape="rect" id="node9" href="$_i_o_8c.html#ae2e4cba568903f3f79f8c543593eb7ed" title="Disable all interrupts." alt="" coords="623,645,740,675"/>
+<area shape="rect" id="node13" href="$_t_m_c262_8c.html#a95debb2b20d24688772f3584c5d7069a" title="Get chopper blank time." alt="" coords="859,5,1032,35"/>
+<area shape="rect" id="node15" href="$_t_m_c262_8c.html#af1163dbcdb52e348f46e53984f2bc8a8" title="Get chopper hysteresis decay (HDEC)." alt="" coords="840,59,1051,88"/>
+<area shape="rect" id="node17" href="$_t_m_c262_8c.html#a7ff07ce51ae920070c9790e40d53d170" title="Get chopper hysteresis end (HEND)." alt="" coords="847,112,1044,141"/>
+<area shape="rect" id="node19" href="$_t_m_c262_8c.html#a5403633773c4bea05d44a606bdae15da" title="Get chopper hysteresis start (HSTART)." alt="" coords="844,165,1047,195"/>
+<area shape="rect" id="node21" href="$_t_m_c262_8c.html#a7d68a84158723060335594074fe596b8" title="Get chopper mode." alt="" coords="873,219,1017,248"/>
+<area shape="rect" id="node23" href="$_t_m_c262_8c.html#a38bebd463b78bb7de4c93d95c19df982" title="Get random TOff mode." alt="" coords="855,272,1036,301"/>
+<area shape="rect" id="node25" href="$_t_m_c262_8c.html#aae7a3ab6cade5fc1870c461a99f4328b" title="Get chopper off time value." alt="" coords="879,325,1012,355"/>
+<area shape="rect" id="node27" href="$_t_m_c262_8c.html#ac468a6dc8b2fbfad9283d343301280b5" title="Get driver protection disable setting." alt="" coords="847,379,1044,408"/>
+<area shape="rect" id="node29" href="$_t_m_c262_8c.html#ab360c4326863c46975c44b1b9f3db43d" title="Get protection timer setting." alt="" coords="852,432,1039,461"/>
+<area shape="rect" id="node31" href="$_t_m_c262_8c.html#a46b183aff8eb2eab963dfd05f1200dab" title="Get slope high side value (SLPH)." alt="" coords="855,485,1036,515"/>
+<area shape="rect" id="node33" href="$_t_m_c262_8c.html#a2aac057851f6908b36937edaf554e72a" title="Get slope high side value (SLPL)." alt="" coords="856,539,1035,568"/>
+<area shape="rect" id="node35" href="$_t_m_c262_8c.html#a0ce0f2fbc3007e39211c337d6b8f218f" title="Get VSense scale setting." alt="" coords="859,592,1032,621"/>
+<area shape="rect" id="node37" href="$_t_m_c262_8c.html#ad627506135a24678ed9bdee8bd4b220c" title="Get current down step speed." alt="" coords="847,645,1044,675"/>
+<area shape="rect" id="node39" href="$_t_m_c262_8c.html#a16da8aaf3313c8c2fe564ac166374d26" title="Get minimum current." alt="" coords="864,699,1027,728"/>
+<area shape="rect" id="node41" href="$_t_m_c262_8c.html#a78b4f4ec871966dd342e44c1ff816c01" title="Get hystersis width." alt="" coords="836,752,1055,781"/>
+<area shape="rect" id="node43" href="$_t_m_c262_8c.html#a1fa4813ffcff71cf5bde70b165f337ab" title="Get current up step width." alt="" coords="855,805,1036,835"/>
+<area shape="rect" id="node45" href="$_t_m_c262_8c.html#a18fcec56e7a18a557df1556f3f8f0a11" title="Get stallGuard filter." alt="" coords="868,859,1023,888"/>
+<area shape="rect" id="node47" href="$_t_m_c262_8c.html#ad2d93301263a9275d45473c25423dc86" title="Get stallGuard threshold setting." alt="" coords="855,912,1036,941"/>
+<area shape="rect" id="node49" href="$_t_m_c262_8c.html#a3d43531dac70948d720ea12b123a56d6" title="Get microstep resolution." alt="" coords="857,965,1033,995"/>
+<area shape="rect" id="node51" href="$_t_m_c262_8c.html#a7f98b67bf6ee141a8d827e95aaf52500" title="Get interpolation mode." alt="" coords="857,1019,1033,1048"/>
+<area shape="rect" id="node53" href="$_t_m_c262_8c.html#aa6a4207804afc89c995fe7b2042c54cf" title="Get microstep resolution." alt="" coords="861,1072,1029,1101"/>
+<area shape="rect" id="node55" href="$_t_m_c429_8c.html#a8ba21f333f3fb585aaa78436ddb4f479" title="Read TMC429 register (24 bit)." alt="" coords="903,1285,988,1315"/>
+<area shape="rect" id="node59" href="$_t_m_c429_8c.html#adaf44a137501b3a95c53ca17c5e4ff47" title="Read TMC429 register (12 bit)." alt="" coords="893,1125,997,1155"/>
+<area shape="rect" id="node62" href="$_t_m_c429_8c.html#a60efa9237199ece40c80a201bf3d0c2c" title="Read TMC429 register." alt="" coords="877,1179,1013,1208"/>
+<area shape="rect" id="node65" href="$_t_m_c429_8c.html#aa297c3b9bdadc2d895462b083c1299a4" title="Read TMC429 status byte." alt="" coords="891,1232,1000,1261"/>
+<area shape="rect" id="node57" href="$_t_m_c429_8c.html#a2570f03438141615ff9cd36cb1c8b5c3" title="32 bit SPI communication with TMC429" alt="" coords="1104,1388,1208,1417"/>
+<area shape="rect" id="node71" href="$_t_m_c429_8c.html#a629e6cd8886f32449ed1e01b9bdd6e3b" title="Set the ramping mode of an axis." alt="" coords="617,1337,745,1367"/>
+<area shape="rect" id="node74" href="$_t_m_c429_8c.html#a4202a58e1f3c8209a4b8b0cc44e5b651" title="Write zero to a TMC429 register." alt="" coords="632,1183,731,1212"/>
+<area shape="rect" id="node81" href="$_t_m_c429_8c.html#a5c2c6f60fdb6ac3caa092d36c6ebb3c0" title="Set the maximum acceleration." alt="" coords="644,1492,719,1521"/>
+<area shape="rect" id="node86" href="$_t_m_c429_8c.html#a454dd8b831f480715c1fa0b49fa238b5" title="Write 16 bit value to a TMC429 register." alt="" coords="893,1440,997,1469"/>
+<area shape="rect" id="node89" href="$_t_m_c429_8c.html#ade210eb34b7f647108a78ce66aef6c98" title="Write 24 bit value to a TMC429 register." alt="" coords="637,1545,725,1575"/>
+<area shape="rect" id="node83" href="$_t_m_c429_8c.html#a20f409de3227e2a325fa6cebe6e6a9f8" title="Read TMC429 register." alt="" coords="892,1493,999,1523"/>
+<area shape="rect" id="node105" href="$_t_m_c262_8c.html#ae1527f509a7f7403ebb14025a9cd0d4a" title="Set chopper blank time." alt="" coords="596,1751,767,1780"/>
+<area shape="rect" id="node107" href="$_t_m_c262_8c.html#a25759d8029efc5b365d409db98508431" title="Set chopper hysteresis decay parameter (HDEC)." alt="" coords="576,1804,787,1833"/>
+<area shape="rect" id="node109" href="$_t_m_c262_8c.html#a3d8007ca076ceaaad049bb956618f9f9" title="Set chopper hysteresis end parameter (HEND)." alt="" coords="584,1857,779,1887"/>
+</map>

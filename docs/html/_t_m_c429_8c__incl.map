@@ -1,0 +1,9 @@
+<map id="G" name="G">
+<area shape="rect" id="node5" href="$bits_8h.html" title="Bit definitions." alt="" coords="83,83,136,112"/>
+<area shape="rect" id="node7" href="$step_rocker_8h.html" title="Basic type and macro definitions." alt="" coords="160,83,259,112"/>
+<area shape="rect" id="node9" href="$_t_m_c429_8h.html" title="TMC429 library definitions." alt="" coords="283,83,363,112"/>
+<area shape="rect" id="node11" href="$_globals_8h.html" title="Global variables." alt="" coords="387,83,464,112"/>
+<area shape="rect" id="node13" href="$_s_p_i_8h.html" title="SPI functions." alt="" coords="488,83,541,112"/>
+<area shape="rect" id="node15" href="$_t_m_c262_8h.html" title="TMC262 library." alt="" coords="565,83,645,112"/>
+<area shape="rect" id="node17" href="$_i_o_8h.html" title="I/O functions." alt="" coords="669,83,715,112"/>
+</map>

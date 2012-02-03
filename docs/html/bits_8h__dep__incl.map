@@ -1,0 +1,12 @@
+<map id="G" name="G">
+<area shape="rect" id="node3" href="$_commands_8c.html" title="Mini TMCL interpreter." alt="" coords="5,83,104,112"/>
+<area shape="rect" id="node5" href="$_eeprom_8c.html" title="EEPROM access functions." alt="" coords="128,83,205,112"/>
+<area shape="rect" id="node7" href="$_i_o_8c.html" title="I/O functions." alt="" coords="229,83,275,112"/>
+<area shape="rect" id="node9" href="$_r_s485_8c.html" title="RS485 functions." alt="" coords="299,83,371,112"/>
+<area shape="rect" id="node11" href="$_s_p_i_8c.html" title="SPI functions." alt="" coords="395,83,448,112"/>
+<area shape="rect" id="node13" href="$step_rocker_8c.html" title="Main file." alt="" coords="472,83,571,112"/>
+<area shape="rect" id="node15" href="$_sys_control_8c.html" title="Motor monitoring." alt="" coords="595,83,691,112"/>
+<area shape="rect" id="node17" href="$_sys_tick_8c.html" title="1ms system tick timer functions" alt="" coords="715,83,795,112"/>
+<area shape="rect" id="node19" href="$_t_m_c262_8c.html" title="TMC262 Stepper motor driver functions." alt="" coords="819,83,899,112"/>
+<area shape="rect" id="node21" href="$_t_m_c429_8c.html" title="TMC429 Stepper controller functions." alt="" coords="923,83,1003,112"/>
+</map>

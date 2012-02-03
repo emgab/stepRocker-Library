@@ -1,0 +1,12 @@
+<map id="G" name="G">
+<area shape="rect" id="node3" href="$_t_m_c262_8h.html#acefb7d291af4ed6c8acfeb3bd9a30da7" title="Initialise all motor drivers." alt="" coords="616,5,725,35"/>
+<area shape="rect" id="node7" href="$_t_m_c262_8h.html#a95490bfd4e3b32b8615bf6a1c3a23892" title="Read the status register of a TMC26x." alt="" coords="423,57,527,87"/>
+<area shape="rect" id="node12" href="$_t_m_c262_8h.html#aec587a5d614438b08e1be9fc2a46c2c8" title="Set double step mode." alt="" coords="187,108,363,137"/>
+<area shape="rect" id="node21" href="$_t_m_c262_8h.html#a487999edc4f0806422b86e67a47aadd9" title="Turn interpolation mode on or off." alt="" coords="187,161,363,191"/>
+<area shape="rect" id="node24" href="$_t_m_c262_8h.html#a2f8201592f5284e205d413b09cbbc1a7" title="Set the microstep resolution." alt="" coords="192,215,357,244"/>
+<area shape="rect" id="node5" href="$step_rocker_8c.html#a568b3afc214ba30be5bf526d6b27b611" title="Main program." alt="" coords="981,57,1032,87"/>
+<area shape="rect" id="node9" href="$_sys_control_8h.html#ac8de2a73868eb173500866f9fc5772f8" title="Motor monitoring." alt="" coords="815,57,921,87"/>
+<area shape="rect" id="node14" href="$_commands_8c.html#a443621a71b0c43372b21be75be279482" title="Command SAP." alt="" coords="411,155,539,184"/>
+<area shape="rect" id="node16" href="$_commands_8c.html#a9793baaccd0e9d22f3385bd5b341fe97" title="Execute actual TMCL command." alt="" coords="588,148,753,177"/>
+<area shape="rect" id="node18" href="$_commands_8h.html#a3ea6d6d2906dc85bef7c2f85c61a8585" title="Fetch and execute TMCL commands." alt="" coords="804,123,932,152"/>
+</map>

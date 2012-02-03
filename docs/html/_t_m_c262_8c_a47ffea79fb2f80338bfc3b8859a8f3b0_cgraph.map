@@ -1,0 +1,9 @@
+<map id="G" name="G">
+<area shape="rect" id="node3" href="$_t_m_c262_8c.html#a07f0cb5daf196f42d93819367f18ce53" title="Write CHOPCONF register data to TMC26x." alt="" coords="183,5,319,35"/>
+<area shape="rect" id="node9" href="$_t_m_c262_8c.html#a510d9c77f76a29c1322a8a5e46dd8ec0" title="Write DRVCONF register data to TMC26x." alt="" coords="191,59,311,88"/>
+<area shape="rect" id="node12" href="$_t_m_c262_8c.html#ad403adebf233a836dd9c97fef668dead" title="Write SMARTEN register data to TMC26x." alt="" coords="165,112,336,141"/>
+<area shape="rect" id="node15" href="$_t_m_c262_8c.html#a5c1bc8b2f78367de6c223fca249275af" title="Write SGSCONF register data to TMC26x." alt="" coords="176,165,325,195"/>
+<area shape="rect" id="node18" href="$_t_m_c262_8c.html#a469620ca7f7a637eb404b89302b6d5af" title="Write DRVCTRL register data to TMC26x." alt="" coords="185,219,316,248"/>
+<area shape="rect" id="node5" href="$_t_m_c262_8c.html#a68abfd58f683b8e948d6e101f1372497" title="SPI communictation with TMC26x." alt="" coords="384,112,488,141"/>
+<area shape="rect" id="node7" href="$_s_p_i_8c.html#a1a9d469f7aaa533671467316481f81c5" title="SPI communication." alt="" coords="536,112,640,141"/>
+</map>

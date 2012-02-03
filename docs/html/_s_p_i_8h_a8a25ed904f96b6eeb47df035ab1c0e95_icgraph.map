@@ -1,0 +1,51 @@
+<map id="G" name="G">
+<area shape="rect" id="node3" href="$_t_m_c429_8h.html#af0458b0f5495b91e59aa39c08a2517d2" title="Read TMC429 status byte." alt="" coords="351,178,460,208"/>
+<area shape="rect" id="node9" href="$_eeprom_8h.html#a4e34031ac06e1c0e083d9ee9d57cafc2" title="Copy block from EEPROM to RAM." alt="" coords="157,1293,288,1322"/>
+<area shape="rect" id="node11" href="$_eeprom_8h.html#a3e96929c04c6e62f6641b673eb4788cd" title="Read a byte from the EEPROM." alt="" coords="161,1346,284,1376"/>
+<area shape="rect" id="node13" href="$_t_m_c262_8c.html#a68abfd58f683b8e948d6e101f1372497" title="SPI communictation with TMC26x." alt="" coords="171,1240,275,1269"/>
+<area shape="rect" id="node21" href="$_t_m_c429_8h.html#ae5dca7d55da58bf92324c60151cac2c7" title="32 bit SPI communication with TMC429" alt="" coords="827,378,931,408"/>
+<area shape="rect" id="node132" href="$_eeprom_8h.html#aebc9e8209f8896325cb00870946f29e2" title="Copy memory block to EEPROM." alt="" coords="157,1400,288,1429"/>
+<area shape="rect" id="node134" href="$_eeprom_8h.html#a7ef2e4ec5980733344697fd7a07c82ec" title="Write a byte to the EEPROM." alt="" coords="160,1453,285,1482"/>
+<area shape="rect" id="node5" href="$_commands_8c.html#a46076531a74c3babbe282e563ad699d0" title="Command GAP." alt="" coords="1300,88,1428,117"/>
+<area shape="rect" id="node7" href="$_commands_8c.html#a9793baaccd0e9d22f3385bd5b341fe97" title="Execute actual TMCL command." alt="" coords="1479,481,1644,510"/>
+<area shape="rect" id="node15" href="$_t_m_c262_8c.html#a07f0cb5daf196f42d93819367f18ce53" title="Write CHOPCONF register data to TMC26x." alt="" coords="337,902,473,932"/>
+<area shape="rect" id="node81" href="$_t_m_c262_8c.html#a510d9c77f76a29c1322a8a5e46dd8ec0" title="Write DRVCONF register data to TMC26x." alt="" coords="819,1240,939,1269"/>
+<area shape="rect" id="node104" href="$_t_m_c262_8c.html#ad403adebf233a836dd9c97fef668dead" title="Write SMARTEN register data to TMC26x." alt="" coords="793,1508,964,1537"/>
+<area shape="rect" id="node123" href="$_t_m_c262_8c.html#a5c1bc8b2f78367de6c223fca249275af" title="Write SGSCONF register data to TMC26x." alt="" coords="804,1613,953,1642"/>
+<area shape="rect" id="node127" href="$_t_m_c262_8c.html#a469620ca7f7a637eb404b89302b6d5af" title="Write DRVCTRL register data to TMC26x." alt="" coords="813,1666,944,1696"/>
+<area shape="rect" id="node17" href="$_t_m_c262_8h.html#a63dc9a50e3a6ccc22f7f7cad02b45ef6" title="Disable a motor driver." alt="" coords="581,1036,667,1065"/>
+<area shape="rect" id="node19" href="$_t_m_c262_8h.html#a048161e181b9cee2a90204b530e71834" title="Enable a motor driver." alt="" coords="583,522,665,552"/>
+<area shape="rect" id="node56" href="$_t_m_c262_8h.html#acefb7d291af4ed6c8acfeb3bd9a30da7" title="Initialise all motor drivers." alt="" coords="1087,1666,1196,1696"/>
+<area shape="rect" id="node58" href="$_t_m_c262_8h.html#a95490bfd4e3b32b8615bf6a1c3a23892" title="Read the status register of a TMC26x." alt="" coords="1089,1720,1193,1749"/>
+<area shape="rect" id="node60" href="$_t_m_c262_8h.html#a6b4d75ce0ea67b5bec65bc6d0a4777e5" title="Set chopper blank time." alt="" coords="793,666,964,696"/>
+<area shape="rect" id="node63" href="$_t_m_c262_8h.html#a2d226a0e98b7b1aa2933751f0a181feb" title="Set chopper hysteresis decay parameter (HDEC)." alt="" coords="773,720,984,749"/>
+<area shape="rect" id="node66" href="$_t_m_c262_8h.html#a933f42cfcb9768ee1df956eb847b69ac" title="Set chopper hysteresis end parameter (HEND)." alt="" coords="527,769,721,798"/>
+<area shape="rect" id="node69" href="$_t_m_c262_8h.html#a8960886b1df9332b49e7f1ed60afd5cf" title="Set chopper hysteresis start parameter (HSTART)." alt="" coords="524,822,724,852"/>
+<area shape="rect" id="node72" href="$_t_m_c262_8h.html#a3275ca3607e0e44e757059687a7c52a2" title="Set chopper mode." alt="" coords="553,876,695,905"/>
+<area shape="rect" id="node75" href="$_t_m_c262_8h.html#a7a486cb8daf2585658f8aa34b27e4a93" title="Set random TOff mode." alt="" coords="533,929,715,958"/>
+<area shape="rect" id="node78" href="$_t_m_c262_8h.html#a8ba4fb31e28bdc8274bb84750f33bfb9" title="Set chopper off time (TOff)." alt="" coords="557,982,691,1012"/>
+<area shape="rect" id="node23" href="$_t_m_c429_8h.html#a98704c1dda2b5814b188d45b1ea5d1f6" title="Read TMC429 register." alt="" coords="1088,245,1195,274"/>
+<area shape="rect" id="node25" href="$_commands_8c.html#a443621a71b0c43372b21be75be279482" title="Command SAP." alt="" coords="1300,898,1428,928"/>
+<area shape="rect" id="node28" href="$_t_m_c429_8h.html#afddf53a96de1ca5fd32475ce49666681" title="Read TMC429 register (24 bit)." alt="" coords="1099,34,1184,64"/>
+<area shape="rect" id="node31" href="$_t_m_c429_8h.html#a25da9c6827bf185edc2d11448ae8f2b4" title="Read TMC429 register (12 bit)." alt="" coords="1089,88,1193,117"/>
+<area shape="rect" id="node34" href="$_t_m_c429_8h.html#af136822e9e785bd4d72b23166e2c8d9f" title="Read TMC429 register." alt="" coords="1073,141,1209,170"/>
+<area shape="rect" id="node37" href="$_t_m_c429_8h.html#aad8aa522d905f010c6e1faf0f64260b0" title="Set the ramping mode of an axis." alt="" coords="1077,298,1205,328"/>
+<area shape="rect" id="node40" href="$_t_m_c429_8h.html#a7ba0361eafcc244ac91624224e9abd0b" title="Set the end switch mode." alt="" coords="1075,512,1208,541"/>
+<area shape="rect" id="node43" href="$_t_m_c429_8h.html#aa69628a34cf72dab4fef598294e42927" title="TMC429 write access." alt="" coords="1088,352,1195,381"/>
+<area shape="rect" id="node46" href="$_t_m_c429_8h.html#a968c12178e42a5dae0a217073bff9bff" title="TMC429 write access." alt="" coords="1076,565,1207,594"/>
+<area shape="rect" id="node48" href="$_t_m_c429_8h.html#acff6b54afea84b28219d6b78e6bd3d67" title="Write 24 bit value to a TMC429 register." alt="" coords="1097,405,1185,434"/>
+<area shape="rect" id="node51" href="$_t_m_c429_8h.html#ad0d71555e661057396b3bb6b9370bff7" title="Write 16 bit value to a TMC429 register." alt="" coords="1089,458,1193,488"/>
+<area shape="rect" id="node54" href="$_t_m_c429_8h.html#ad8b5ea2a38546586bce0e7da03001f72" title="Write zero to a TMC429 register." alt="" coords="1092,618,1191,648"/>
+<area shape="rect" id="node85" href="$_t_m_c262_8h.html#a6007a64be5216b9dde0b5b199f2ff41d" title="Disable short to GND protection." alt="" coords="1043,1026,1240,1056"/>
+<area shape="rect" id="node88" href="$_t_m_c262_8h.html#a9553a5fd62722ffced9c15e056dc039e" title="Set protection timer value." alt="" coords="1048,1080,1235,1109"/>
+<area shape="rect" id="node91" href="$_t_m_c262_8h.html#abe8ec191e9bd1b9eeaeac54040b2c8fa" title="Selects the values to be read." alt="" coords="1060,1293,1223,1322"/>
+<area shape="rect" id="node93" href="$_t_m_c262_8h.html#a088496e6ca1289cb7390c357e7410102" title="Set slope high side value (SLPH)." alt="" coords="1052,1133,1231,1162"/>
+<area shape="rect" id="node96" href="$_t_m_c262_8h.html#a4590eefc50ba0485af69166246e41b74" title="Set slope low side value (SLPL)." alt="" coords="1053,1186,1229,1216"/>
+<area shape="rect" id="node99" href="$_t_m_c262_8h.html#a9000b99625b3c6b022a310defe1340ce" title="Disable/enable step direction input." alt="" coords="1047,1346,1236,1376"/>
+<area shape="rect" id="node101" href="$_t_m_c262_8h.html#a609b119ba2d2dc7065418585225eb706" title="Sets the sense voltage." alt="" coords="1055,1240,1228,1269"/>
+<area shape="rect" id="node108" href="$_t_m_c262_8h.html#af8e59041581b14c80b28be971eface1e" title="Set smart energy down step." alt="" coords="1043,1400,1240,1429"/>
+<area shape="rect" id="node111" href="$_t_m_c262_8h.html#a6d11f2c0c07a66d832bd429ccdc05671" title="Set smart energy minimum current." alt="" coords="1060,1453,1223,1482"/>
+<area shape="rect" id="node114" href="$_t_m_c262_8h.html#a49958ba62d938c96ac217f479fc19012" title="Set smart enery hysteresis width." alt="" coords="1032,1506,1251,1536"/>
+<area shape="rect" id="node117" href="$_t_m_c262_8h.html#ac385d3d0bda38065df122190d6ad46c1" title="Set smart energy hysteresis start." alt="" coords="1035,1560,1248,1589"/>
+<area shape="rect" id="node120" href="$_t_m_c262_8h.html#a795eb04866bc847e8d5eb7efcd73a343" title="Set smart energy up step." alt="" coords="1051,1613,1232,1642"/>
+</map>

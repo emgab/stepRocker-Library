@@ -1,0 +1,38 @@
+<map id="G" name="G">
+<area shape="rect" id="node3" href="$_t_m_c262_8h.html#a63dc9a50e3a6ccc22f7f7cad02b45ef6" title="Disable a motor driver." alt="" coords="487,230,572,260"/>
+<area shape="rect" id="node9" href="$_t_m_c262_8h.html#a048161e181b9cee2a90204b530e71834" title="Enable a motor driver." alt="" coords="243,861,325,890"/>
+<area shape="rect" id="node88" href="$_t_m_c262_8h.html#acefb7d291af4ed6c8acfeb3bd9a30da7" title="Initialise all motor drivers." alt="" coords="1251,982,1360,1012"/>
+<area shape="rect" id="node91" href="$_t_m_c262_8h.html#a95490bfd4e3b32b8615bf6a1c3a23892" title="Read the status register of a TMC26x." alt="" coords="232,62,336,92"/>
+<area shape="rect" id="node94" href="$_t_m_c262_8h.html#a6b4d75ce0ea67b5bec65bc6d0a4777e5" title="Set chopper blank time." alt="" coords="444,1133,615,1162"/>
+<area shape="rect" id="node97" href="$_t_m_c262_8h.html#a2d226a0e98b7b1aa2933751f0a181feb" title="Set chopper hysteresis decay parameter (HDEC)." alt="" coords="424,1186,635,1216"/>
+<area shape="rect" id="node100" href="$_t_m_c262_8h.html#a933f42cfcb9768ee1df956eb847b69ac" title="Set chopper hysteresis end parameter (HEND)." alt="" coords="432,1240,627,1269"/>
+<area shape="rect" id="node103" href="$_t_m_c262_8h.html#a8960886b1df9332b49e7f1ed60afd5cf" title="Set chopper hysteresis start parameter (HSTART)." alt="" coords="429,1293,629,1322"/>
+<area shape="rect" id="node106" href="$_t_m_c262_8h.html#a3275ca3607e0e44e757059687a7c52a2" title="Set chopper mode." alt="" coords="213,1344,355,1373"/>
+<area shape="rect" id="node109" href="$_t_m_c262_8h.html#a7a486cb8daf2585658f8aa34b27e4a93" title="Set random TOff mode." alt="" coords="193,1030,375,1060"/>
+<area shape="rect" id="node112" href="$_t_m_c262_8h.html#a8ba4fb31e28bdc8274bb84750f33bfb9" title="Set chopper off time (TOff)." alt="" coords="217,1084,351,1113"/>
+<area shape="rect" id="node5" href="$_sys_control_8h.html#ac8de2a73868eb173500866f9fc5772f8" title="Motor monitoring." alt="" coords="1056,48,1163,77"/>
+<area shape="rect" id="node7" href="$step_rocker_8c.html#a568b3afc214ba30be5bf526d6b27b611" title="Main program." alt="" coords="1616,521,1667,550"/>
+<area shape="rect" id="node11" href="$_t_m_c429_8h.html#ae5dca7d55da58bf92324c60151cac2c7" title="32 bit SPI communication with TMC429" alt="" coords="477,529,581,558"/>
+<area shape="rect" id="node13" href="$_t_m_c429_8h.html#a98704c1dda2b5814b188d45b1ea5d1f6" title="Read TMC429 register." alt="" coords="697,854,804,884"/>
+<area shape="rect" id="node27" href="$_commands_8c.html#a443621a71b0c43372b21be75be279482" title="Command SAP." alt="" coords="1045,981,1173,1010"/>
+<area shape="rect" id="node31" href="$_t_m_c429_8h.html#afddf53a96de1ca5fd32475ce49666681" title="Read TMC429 register (24 bit)." alt="" coords="708,178,793,208"/>
+<area shape="rect" id="node37" href="$_t_m_c429_8h.html#a25da9c6827bf185edc2d11448ae8f2b4" title="Read TMC429 register (12 bit)." alt="" coords="699,72,803,101"/>
+<area shape="rect" id="node41" href="$_t_m_c429_8h.html#af136822e9e785bd4d72b23166e2c8d9f" title="Read TMC429 register." alt="" coords="683,125,819,154"/>
+<area shape="rect" id="node44" href="$_t_m_c429_8h.html#aad8aa522d905f010c6e1faf0f64260b0" title="Set the ramping mode of an axis." alt="" coords="687,413,815,442"/>
+<area shape="rect" id="node60" href="$_t_m_c429_8h.html#a7ba0361eafcc244ac91624224e9abd0b" title="Set the end switch mode." alt="" coords="684,254,817,284"/>
+<area shape="rect" id="node63" href="$_t_m_c429_8h.html#aa69628a34cf72dab4fef598294e42927" title="TMC429 write access." alt="" coords="697,801,804,830"/>
+<area shape="rect" id="node67" href="$_t_m_c429_8h.html#a968c12178e42a5dae0a217073bff9bff" title="TMC429 write access." alt="" coords="867,774,997,804"/>
+<area shape="rect" id="node70" href="$_t_m_c429_8h.html#acff6b54afea84b28219d6b78e6bd3d67" title="Write 24 bit value to a TMC429 register." alt="" coords="888,620,976,649"/>
+<area shape="rect" id="node75" href="$_t_m_c429_8h.html#ad0d71555e661057396b3bb6b9370bff7" title="Write 16 bit value to a TMC429 register." alt="" coords="699,529,803,558"/>
+<area shape="rect" id="node83" href="$_t_m_c429_8h.html#ad8b5ea2a38546586bce0e7da03001f72" title="Write zero to a TMC429 register." alt="" coords="701,308,800,337"/>
+<area shape="rect" id="node15" href="$_t_m_c429_8h.html#a75c65505f3160b8c04cd0edc146702cc" title="Set the maximum acceleration." alt="" coords="895,828,969,857"/>
+<area shape="rect" id="node17" href="$_t_m_c429_8h.html#a8301ac7f272d51ac0c84d7be55a9f410" title="TMC429 initialization." alt="" coords="1080,594,1139,624"/>
+<area shape="rect" id="node20" href="$_commands_8c.html#aafbc535dbb1c4891267f6e68a226f127" title="Command MVP." alt="" coords="1053,517,1165,546"/>
+<area shape="rect" id="node22" href="$_commands_8c.html#a9793baaccd0e9d22f3385bd5b341fe97" title="Execute actual TMCL command." alt="" coords="1223,465,1388,494"/>
+<area shape="rect" id="node24" href="$_commands_8h.html#a3ea6d6d2906dc85bef7c2f85c61a8585" title="Fetch and execute TMCL commands." alt="" coords="1439,485,1567,514"/>
+<area shape="rect" id="node33" href="$_commands_8c.html#a46076531a74c3babbe282e563ad699d0" title="Command GAP." alt="" coords="868,100,996,129"/>
+<area shape="rect" id="node46" href="$_t_m_c429_8h.html#a7da650aafc12e65459eec789f1c03e59" title="Stop a motor immediately." alt="" coords="895,254,969,284"/>
+<area shape="rect" id="node49" href="$_commands_8c.html#a29fc220c246b6affb516d46453048a43" title="Command MST." alt="" coords="891,308,973,337"/>
+<area shape="rect" id="node53" href="$_commands_8c.html#a8c930c2e3ebddb36da3bf76ec21d28b3" title="Command ROL." alt="" coords="892,361,972,390"/>
+<area shape="rect" id="node56" href="$_commands_8c.html#a441063121a6474e1ccb53596241591f0" title="Command ROR (see TMCL manual)." alt="" coords="887,465,977,494"/>
+</map>

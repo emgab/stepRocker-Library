@@ -1,0 +1,6 @@
+<map id="G" name="G">
+<area shape="rect" id="node3" href="$_eeprom_8c.html" title="EEPROM access functions." alt="" coords="5,83,83,112"/>
+<area shape="rect" id="node5" href="$step_rocker_8c.html" title="Main file." alt="" coords="107,83,205,112"/>
+<area shape="rect" id="node7" href="$_t_m_c262_8c.html" title="TMC262 Stepper motor driver functions." alt="" coords="229,83,309,112"/>
+<area shape="rect" id="node9" href="$_t_m_c429_8c.html" title="TMC429 Stepper controller functions." alt="" coords="333,83,413,112"/>
+</map>

@@ -1,0 +1,5 @@
+<map id="G" name="G">
+<area shape="rect" id="node3" href="$_t_m_c262_8c.html#a510d9c77f76a29c1322a8a5e46dd8ec0" title="Write DRVCONF register data to TMC26x." alt="" coords="233,5,353,35"/>
+<area shape="rect" id="node5" href="$_t_m_c262_8c.html#a68abfd58f683b8e948d6e101f1372497" title="SPI communictation with TMC26x." alt="" coords="403,5,507,35"/>
+<area shape="rect" id="node7" href="$_s_p_i_8c.html#a1a9d469f7aaa533671467316481f81c5" title="SPI communication." alt="" coords="555,5,659,35"/>
+</map>

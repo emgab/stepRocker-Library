@@ -1,0 +1,9 @@
+<map id="G" name="G">
+<area shape="rect" id="node3" href="$_t_m_c262_8c.html#a2e4a0b2d578595beb85ccca04a77907a" title="Enable a motor driver." alt="" coords="175,59,257,88"/>
+<area shape="rect" id="node9" href="$_s_p_i_8c.html#a1a9d469f7aaa533671467316481f81c5" title="SPI communication." alt="" coords="923,85,1027,115"/>
+<area shape="rect" id="node12" href="$_i_o_8c.html#a2fdce817bef363b3a344cc0e02d4988a" title="Set motor current." alt="" coords="157,5,275,35"/>
+<area shape="rect" id="node5" href="$_t_m_c262_8c.html#a07f0cb5daf196f42d93819367f18ce53" title="Write CHOPCONF register data to TMC26x." alt="" coords="579,59,715,88"/>
+<area shape="rect" id="node7" href="$_t_m_c262_8c.html#a68abfd58f683b8e948d6e101f1372497" title="SPI communictation with TMC26x." alt="" coords="771,59,875,88"/>
+<area shape="rect" id="node14" href="$_t_m_c262_8c.html#a05f27eeb2ea8563f73b65d4e61e45774" title="Set current scale value." alt="" coords="324,5,521,35"/>
+<area shape="rect" id="node16" href="$_t_m_c262_8c.html#a5c1bc8b2f78367de6c223fca249275af" title="Write SGSCONF register data to TMC26x." alt="" coords="572,5,721,35"/>
+</map>

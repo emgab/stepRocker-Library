@@ -1,0 +1,11 @@
+<map id="G" name="G">
+<area shape="rect" id="node3" href="$_t_m_c429_8h.html#a8301ac7f272d51ac0c84d7be55a9f410" title="TMC429 initialization." alt="" coords="333,25,392,55"/>
+<area shape="rect" id="node7" href="$_commands_8c.html#aafbc535dbb1c4891267f6e68a226f127" title="Command MVP." alt="" coords="307,79,419,108"/>
+<area shape="rect" id="node14" href="$_commands_8c.html#a8c930c2e3ebddb36da3bf76ec21d28b3" title="Command ROL." alt="" coords="165,184,245,213"/>
+<area shape="rect" id="node17" href="$_commands_8c.html#a441063121a6474e1ccb53596241591f0" title="Command ROR (see TMCL manual)." alt="" coords="160,237,251,267"/>
+<area shape="rect" id="node20" href="$_t_m_c429_8h.html#a75c65505f3160b8c04cd0edc146702cc" title="Set the maximum acceleration." alt="" coords="168,29,243,59"/>
+<area shape="rect" id="node24" href="$_commands_8c.html#a443621a71b0c43372b21be75be279482" title="Command SAP." alt="" coords="299,132,427,161"/>
+<area shape="rect" id="node5" href="$step_rocker_8c.html#a568b3afc214ba30be5bf526d6b27b611" title="Main program." alt="" coords="869,80,920,109"/>
+<area shape="rect" id="node9" href="$_commands_8c.html#a9793baaccd0e9d22f3385bd5b341fe97" title="Execute actual TMCL command." alt="" coords="476,132,641,161"/>
+<area shape="rect" id="node11" href="$_commands_8h.html#a3ea6d6d2906dc85bef7c2f85c61a8585" title="Fetch and execute TMCL commands." alt="" coords="692,119,820,148"/>
+</map>
